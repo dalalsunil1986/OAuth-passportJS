@@ -2,7 +2,7 @@
   "name": "oatuh-passportjs",
   "version": "1.0.0",
   "description": "an authentication system using Passport.js and 3rd party service providers such as Google+ and Facebook. By the end of this authentication tutorial series, you'll know how to authenticate users on a node js application",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
